@@ -1,9 +1,0 @@
-requests
-rich
-phonenumbers
-fpdf
-holehe
-ipwhois
-openai
-beautifulsoup4
-pyfiglet
